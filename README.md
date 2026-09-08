@@ -106,6 +106,6 @@ confidensi, dan lokasi objek sekaligus dalam satu tahap prediksi. |
 
 ## Author
 
-Faza Muhammad faqihuddien
+Faza Muhammad Faqihuddien
 [Linkedin](https://linkedin.com/in/faza-faqihuddien)
-[CV]
+[CV](https://drive.google.com/file/d/1oPBo-ER70uymrJTI4M1C16xtmcDoMROk/view?usp=sharing)
