@@ -1,0 +1,13 @@
+*.gguf
+model-gguf/
+
+# Colab/Jupyter
+.ipynb_checkpoints/
+.cache/
+ 
+# Python
+__pycache__/
+*.pyc
+ 
+# OS
+.DS_Store
